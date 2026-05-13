@@ -35,8 +35,8 @@
 ### 검증 항목
 1. **출처 정확성** — *"Inst. 1.1.1"* 은 강요 전체의 첫 번째 절. 표준 학계 인용 위치. ✅
 2. **원문 일치** — 라틴어 원문: *"Tota fere sapientiae nostrae summa, quae vera demum ac solida sapientia censeri debeat, duabus partibus constat, Dei cognitione et nostri."* (강요 1.1.1 첫 문장). paraphrase("하나님 인식과 자기 인식의 두 부분으로 구성된 지혜")는 라틴어 핵심과 일치. ✅
-3. **학계 주류** — Edward Dowey, *The Knowledge of God in Calvin's Theology* (Eerdmans, 1952; rev. 1994) — 본 절을 칼빈 인식론의 출발점으로 해석하는 표준 연구. Wendel·Muller·Helm 모두 동일 위치를 출발점으로 봄. ✅
-4. **할루시네이션 점검** — Dowey 저서 실재 확인 (Eerdmans, 1952 초판, Eerdmans 1994 개정판). 표준 인용서. ✅
+3. **학계 주류** — Edward A. Dowey Jr., *The Knowledge of God in Calvin's Theology* (초판 Columbia University Press, 1952; expanded ed. Eerdmans, 1994) — 본 절을 칼빈 인식론의 출발점으로 해석하는 표준 연구. Wendel·Muller·Helm 모두 동일 위치를 출발점으로 봄. ✅
+4. **할루시네이션 점검** — Dowey 저서 실재 확인 (초판 Columbia University Press 1952, expanded ed. Eerdmans 1994). 표준 인용서. ✅
 
 **판정**: ✅ PASS
 
@@ -123,7 +123,7 @@
    - Richard A. Muller, *Christ and the Decree: Christology and Predestination in Reformed Theology from Calvin to Perkins* — 실재 확인 (Baker Academic, rev. ed. 2008; orig. Labyrinth Press 1986).
    - Paul Helm, *Calvin: A Guide for the Perplexed* — 실재 확인 (T&T Clark, 2008).
    ✅
-5. **TULIP의 "U"는 도르트 + 20세기 영어 두문자어** — SKILL.md 정정 완료. Boettner 1932 *The Reformed Doctrine of Predestination* 인용 정확 (Presbyterian and Reformed Publishing). ✅
+5. **TULIP의 "U"는 도르트 + 20세기 영어 두문자어** — SKILL.md 정정 완료. Boettner 1932 *The Reformed Doctrine of Predestination* 인용 정확. **초판 출판처는 William B. Eerdmans Publishing (Grand Rapids), 1932**; Presbyterian and Reformed Publishing은 후대 재간(1956 이후). 본 정밀화 라운드에서 정정 완료. ✅
 
 **판정**: ✅ PASS
 

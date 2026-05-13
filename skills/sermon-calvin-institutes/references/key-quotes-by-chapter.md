@@ -15,7 +15,7 @@
 - **표준 위치**: 1.1.1 (강요 첫 문장)
 - **핵심 명제 (paraphrase)**: 우리가 가진 거의 모든 참된 지혜는 두 부분 — 하나님에 대한 인식과 우리 자신에 대한 인식 — 으로 구성된다. 그리고 둘은 서로를 비추는 거울이라 어느 하나만 따로 떼어 알 수 없다.
 - **신학적 핵심**: 신학적 인식론은 객관적 신학 명제 나열이 아니라 **하나님–인간의 상관(correlation) 안에서** 형성된다. 이는 본 강요 전체의 출발 명제이자 칼빈주의 인식론의 표어.
-- **자주 묶이는 학자**: Edward Dowey, *The Knowledge of God in Calvin's Theology* (Eerdmans, 1952).
+- **자주 묶이는 학자**: Edward A. Dowey Jr., *The Knowledge of God in Calvin's Theology* (초판 Columbia University Press, 1952; expanded ed. Eerdmans, 1994).
 
 ---
 
@@ -42,7 +42,7 @@
 
 - **표준 위치**: 2.15.1–6 (특히 2.15.2 선지자, 2.15.3–5 왕, 2.15.6 제사장)
 - **핵심 명제 (paraphrase)**: 그리스도의 사역을 알기 위해 우리는 그분이 아버지로부터 위임받으신 **세 가지 직분(*munus triplex*)** — 선지자(완전한 교사로서 모든 계시의 완성), 왕(그리스도인을 영적 통치로 다스리시며 마지막 적까지 정복하심), 제사장(자신을 단번에 드린 속죄제로 화목 이루심) — 을 살펴야 한다.
-- **신학적 핵심**: 칼빈은 이 삼중직 도식을 **그리스도론의 표준 틀**로 정립. 카르타고의 에우세비우스·아우구스티누스의 단편 언급은 있었으나, 신학적으로 체계화한 것은 칼빈이 최초.
+- **신학적 핵심**: 칼빈은 이 삼중직 도식을 **그리스도론의 표준 틀**로 정립. 카이사레아의 에우세비우스(Eusebius of Caesarea, *Demonstratio Evangelica* IV.15 등)·아우구스티누스의 단편적 언급은 있었으나, 신학적 틀로 체계화한 것은 칼빈이 표준 정립자(다만 Robert Kolb 등은 루터 *On the Councils and the Church*(1539)에도 유사 단편 도식이 있다고 본다 — 학계 내 견해 차이 존재).
 - **후대 영향**: 하이델베르크 요리문답(1563) 31문, 웨스트민스터 신앙고백 8장 1절, 후대 모든 개혁주의 그리스도론의 표준 틀이 됨.
 - **자주 묶이는 학자**: John F. Jansen, *Calvin's Doctrine of the Work of Christ* (James Clarke, 1956); Stephen Edmondson, *Calvin's Christology* (Cambridge, 2004).
 
@@ -96,7 +96,7 @@
 - **표준 위치**: 4.17.5, 4.17.10, 4.17.32
 - **핵심 명제 (paraphrase)**:
   - 칼빈 성찬론의 핵심: 그리스도의 몸과 피는 성찬에서 **떡과 잔의 물질에 변환되거나(가톨릭 화체설)·공재하거나(루터 공재설)** 하지 않으나, 신자는 **성령의 능력**으로 **참되게(vere)** 그리스도의 몸과 피에 참여한다. 그리스도의 인성은 승천 후 하늘에 머무시지만, 성령께서 신자를 들어 올려 하늘의 그리스도와 연합하게 하신다(*sursum corda*).
-- **신학적 핵심**: 츠빙글리의 단순 기념설(memorialism)을 넘어, 루터의 공재설(consubstantiation)을 거부하며, 그 둘 사이에서 **영적 임재(praesentia spiritualis)** 의 제3의 길을 제시. 1549년 *Consensus Tigurinus*(취리히 합의)에서 츠빙글리파(불링거)와의 합의를 통해 개혁주의 표준이 됨.
+- **신학적 핵심**: 츠빙글리의 단순 기념설(memorialism — 단, 츠빙글리 후기 1530년대는 영적 임재에 가깝게 발전했음을 W.P. Stephens *The Theology of Huldrych Zwingli* Oxford 1986이 지적)을 넘어, 루터의 실제적 임재론(흔히 *consubstantiation*으로 분류되나 루터 본인은 이 라틴어 용어를 거부했고 빵·포도주의 "안에·함께·아래(in/with/under)" 그리스도의 몸이 임재한다고 가르침)을 거부하며, 그 둘 사이에서 **영적 임재(praesentia spiritualis)** 의 제3의 길을 제시. 1549년 *Consensus Tigurinus*(취리히 합의, 라틴어 *Consensio mutua in re sacramentaria*, 합의 1549년 5월·출판 1551)에서 츠빙글리파(불링거)와의 합의를 통해 개혁주의 표준이 됨.
 - **자주 묶이는 학자**: B.A. Gerrish, *Grace and Gratitude: The Eucharistic Theology of John Calvin* (Fortress, 1993); Keith A. Mathison, *Given for You: Reclaiming Calvin's Doctrine of the Lord's Supper* (P&R, 2002).
 
 ---

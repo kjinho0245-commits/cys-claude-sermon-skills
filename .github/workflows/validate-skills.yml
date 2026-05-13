@@ -87,11 +87,17 @@ jobs:
 
       - name: Check README links
         run: |
-          # README에 언급된 모든 skill이 실제로 존재하는지 확인
-          for skill in $(grep -oE 'sermon-[a-z0-9-]+' README.md | sort -u); do
+          # README에서 백틱(`)으로 감싼 sermon-* 토큰만 실제 스킬 참조로 간주.
+          # (자연어의 "sermon forms", 저장소명 "cys-claude-sermon-skills" 등의
+          # 오탐을 피하기 위함.)
+          missing=0
+          for skill in $(grep -oE '`sermon-[a-z0-9-]+`' README.md | tr -d '`' | sort -u); do
             if [ ! -d "skills/$skill" ]; then
-              echo "❌ README 언급 '$skill' 디렉토리 없음"
-              exit 1
+              echo "❌ README 백틱 참조 '$skill' 의 디렉토리 없음"
+              missing=$((missing + 1))
             fi
           done
-          echo "✅ README 링크 모두 유효"
+          if [ "$missing" -gt 0 ]; then
+            exit 1
+          fi
+          echo "✅ README 백틱 참조 모두 유효"

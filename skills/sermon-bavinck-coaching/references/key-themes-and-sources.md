@@ -125,7 +125,23 @@
 - **1차 자료 위치**: *Reformed Dogmatics* vol. 4 (영역 2008) — 성령·교회·종말 전체.
 - **단행본 보강**: *The Last Things* (Baker, 1996, John Bolt 편).
 - **핵심**: 교회의 유기적 통일성과 가시적 다양성. 종말은 *현재의 부정*이 아니라 *현재의 회복·완성*.
+- **가시적·비가시적 교회 구분**: 칼빈 *Institutes* 4.1.7의 가시적·비가시적 교회 구분을 바빙크가 organic motif로 발전. 가시적 교회의 *제도적*(institutional) 측면과 비가시적 교회의 *유기적*(organic) 측면이 한 교회의 두 면.
 - **표준 학자 연구**: Brian Mattson 2012, James Eglinton 2012·2020.
+
+---
+
+## 13. 기독론·성육신 (Christology) — 보강 항목
+
+- **1차 자료 위치**: *Reformed Dogmatics* vol. 3 (Baker, 2006) — *Sin and Salvation in Christ*. 특히 그리스도의 위격(person)과 사역(work) 부분.
+- **핵심**:
+  - **두 본성 교리(*Chalcedonian Christology*)**: 그리스도의 신성·인성 한 위격 안에서 *혼합되지 않고·분리되지 않는* 정통 칼케돈(451) 견지.
+  - **anhypostasis·enhypostasis 구분**: 그리스도의 인성은 *비위격적*(anhypostatic — 별개의 인간 위격이 아님)이며 *내위격적*(enhypostatic — 로고스 안에 위격을 가짐). 후기 비잔틴·개혁주의 기독론 표준.
+  - **케노시스 이론 비판**: 19세기 독일 케노시스 신학(Thomasius·Gess 등 — 성육신 시 신적 속성의 *자기 비움/포기*)에 비판적. 신성의 *변화 없는 자기 낮추심*(humiliation) 견지.
+  - **언약·중보자**: 그리스도가 행위 언약의 *제2 아담*이자 은혜 언약의 *중보자(mediator)*.
+- **표준 학자 연구**:
+  - Eglinton 2020 *Bavinck: A Critical Biography* — 바빙크의 기독론 형성 맥락.
+  - Bruce L. McCormack의 *케노시스* 연구는 바빙크의 입장과 대비 가능 (e.g., *The Humility of the Eternal Son*, Cambridge UP, 2021).
+- **인용 우회 표준**: 정확한 페이지 필요 시 *Reformed Dogmatics* vol. 3 직접 확인 권장.
 
 ---
 
@@ -144,6 +160,16 @@
 5. 일반 은총의 인정 (회중이 살아가는 세상 전체가 하나님의 무대)
 
 정확한 인용·페이지 필요 시 *Bavinck on Preaching and Preachers* (Eglinton 편역) 직접 확인 권장.
+
+### 다른 설교론과 비교 시 1차 자료 (보강)
+
+| 비교 대상 | 표준 1차 자료 |
+|---|---|
+| **Lloyd-Jones (MLJ)** | *Preaching and Preachers* (London/Grand Rapids: Hodder & Stoughton / Zondervan, 1971; 40주년 기념 확장판 Zondervan/Crossway, 2011) |
+| **John Calvin (강해 스타일)** | *Calvin's Sermons* — 다권. 학계 표준 영역: *Sermons on Job*·*Sermons on Galatians* 등. |
+| **John Stott** | *Between Two Worlds: The Art of Preaching in the Twentieth Century* (Eerdmans, 1982) |
+
+비교 응답 시 본 스킬은 *바빙크 자료만 직접 인용*하고, 비교 대상 자료는 *학계 표준 출처를 일반 형태로 인용*. 비교 대상에 대한 깊이 있는 분석이 필요하면 해당 신학자 전용 스킬(예: sermon-lloyd-jones-coaching, sermon-calvin-style-insight)로 안내.
 
 ---
 

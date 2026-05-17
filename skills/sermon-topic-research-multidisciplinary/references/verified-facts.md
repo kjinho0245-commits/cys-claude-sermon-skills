@@ -30,6 +30,10 @@
 | 박형룡 (1897–1978) | 『교의신학』 (7권) | 1964–1979 (개혁주의신행협회) | — | 한국개혁주의신행협회 | 한국 정통 개혁신학의 표준 교의학 |
 | 박윤선 (1905–1988) | 『성경주석』 (전 20권 시리즈) | 1953–1979 (영음사) | — | 영음사 | 한국 정통 보수 성경주석의 대표작 |
 | 이상근 (1920–1999) | 『신약주해』 | (시리즈 출간 — 직접 확인 권장) | — | — | 한국교회 사용 빈도 높음 |
+| John Polkinghorne / 폴킹혼 (1930–2021) | 『과학과 섭리』 Science and Providence: God's Interaction with the World | 1988 (초판) | (한국어 번역 여부 직접 확인 권장) | SPCK | 캠브리지 양자물리학자·성공회 사제 |
+| John Polkinghorne | 『양자물리학과 신학』 Quantum Physics and Theology: An Unexpected Kinship | 2005 | (한국어 번역 여부 직접 확인 권장) | Yale University Press | 다윈 강연 (Terry Lectures) 기반 |
+| Kenneth Pargament / 케네스 파거먼트 (1950–) | 『종교와 대처의 심리학』 The Psychology of Religion and Coping: Theory, Research, Practice | 1997 | (한국어 번역 여부 직접 확인 권장) | Guilford Press | 종교적 대처 3유형 (deferring·self-directing·collaborative) 정립 |
+| Richard Tedeschi & Lawrence Calhoun | 『외상후 성장 척도 — 외상의 긍정적 유산 측정』 The Posttraumatic Growth Inventory: Measuring the Positive Legacy of Trauma | 1996 | (한국어 번역 여부 직접 확인 권장 — 학술 논문이므로 한국어 단행본 부재 가능) | Journal of Traumatic Stress 9(3): 455–471 | PTG 5 영역 정립 (관계·가능성·강함·영적 변화·삶의 감사) |
 
 **원칙**: 위 표에 등재되지 않은 저작·연도는 인용 시 *반드시* "직접 확인 권장" 표기. 인용을 강행하지 말 것.
 
